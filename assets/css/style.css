@@ -256,95 +256,79 @@ body{
     right: 30px;
 }
 
-/* Community */
-
-/* Auto layout */
-.manage-section .container1{
-    #width: 80%;
-    margin: auto;
-    #padding: 50px 0;
-    text-align: center;
-}
-.manage-section .container1{
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
-gap: 5.57px;
-width: 1002.34px;
-height: 84.57px;
-}
-
-/* Inside auto layout */
-
-.container1 {
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-
-.clients-section h2{
-    color: #4D4D4D;
-    font-size: 36px;
-    font-weight: 600;
-    line-height: 44px;
-}
-.clients{
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 50px;
-}
-.clients img{
-
-    width: 48px;
-    height: 48px;
-}
-
 /* Section Title */
-.container1 {
-width: 377.27px;
-height: 62px;
 
-font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 25.0585px;
-line-height: 31px;
-/* or 122% */
+.title-section .container1 {
+width: 542px;
+height: 88px;
+margin: auto;
+padding: 50px 0;
 text-align: center;
 
-/* Neutral/D_Grey */
-color: #4D4D4D;
+}
+.title-section .container1 h2{
+    /* Heading/Headline 2 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    /* or 122% */
+    text-align: center;
 
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
+    color: #4D4D4D;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-/* Description */
-.container1 .manage-subheader{
-width: 1002.34px;
-height: 17px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 11.1371px;
-line-height: 17px;
-/* identical to box height, or 150% */
-text-align: center;
-
-/* Neutral/Grey */
-color: #717171;
+.title-section.container1 p{
 
 
-/* Inside auto layout */
-flex: none;
-order: 1;
-align-self: stretch;
-flex-grow: 0;
+    /* Description */
+
+    width: 1440px;
+    height: 24px;
+
+    /* Body/Regular/Body 2 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+
+    /* Neutral/Grey */
+    color: #717171;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.frame-4 .container2{
+    /* Frame 4 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 144px;
+    gap: 26px;
+
+    width: 1440px;
+    height: 280px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
 }

@@ -311,7 +311,7 @@ text-align: center;
     flex-grow: 0;
 }
 
-.frame-4 .container2{
+.container2{
     /* Frame 4 */
 
     /* Auto layout */
@@ -320,7 +320,9 @@ text-align: center;
     justify-content: space-between;
     align-items: center;
     padding: 0px 144px;
+    margin: auto;
     gap: 26px;
+    text-align: center;
 
     width: 1440px;
     height: 280px;
@@ -332,3 +334,434 @@ text-align: center;
     flex-grow: 0;
 
 }
+.unlock-section .container3{
+    padding: 0px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    gap: 50px;
+    margin: 0 auto;
+
+}
+.container3 {
+//* Unlock */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1440px;
+height: 433px;
+#overflow-x: scroll;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+.container3 img{
+    /* Frame 35 */
+
+margin: 0 auto;
+width: 442px;
+height: 433px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.container3 h2{
+    /* The unseen of spending three years at Pixelgrade */
+
+width: 601px;
+height: 88px;
+
+/* Heading/Headline 2 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+/* or 122% */
+
+/* Neutral/D_Grey */
+color: #4D4D4D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+.container3 p{
+   /* When joining the JustGo Community, your success becomes our success. In other words, our Customer Success team will be on hand from day one to ensure we understand your requirements, share your goals and work with you for a smooth adoption of our software. */
+
+width: 601px;
+height: 80px;
+margin: 5% 0;
+
+/* Body/Regular/Body 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+/* Neutral/Grey */
+color: #717171;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+ 
+}
+
+
+.container3 .lmb{
+   /* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 32px;
+gap: 10px;
+margin: 10% 0;
+
+width: 151px;
+height: 52px;
+
+/* Brand/Primary */
+background: #4CAF4F;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+text-decoration: none;
+color: #fff;
+font-weight: 500;
+
+}
+
+.achive .container4{
+    /* Achievements */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+margin: 0 auto;
+padding: 64px 144px;
+gap: 30px;
+
+width: 1440px;
+height: 288px;
+
+/* Neutral/Silver */
+background: #F5F7FA;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+.container4 h3{
+    /* Section Heading */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+
+
+
+}
+
+
+.mobile-section .container5{
+    padding: 0px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    gap: 50px;
+    margin: 0 auto;
+
+}
+.container5 {
+//* Unlock */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1440px;
+height: 433px;
+#overflow-x: scroll;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+.container5 img{
+    /* Frame 35 */
+
+margin: 0 auto;
+width: 442px;
+height: 433px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.container5 h2{
+    /* The unseen of spending three years at Pixelgrade */
+
+width: 601px;
+height: 88px;
+margin: 5% 0;
+/* Heading/Headline 2 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+/* or 122% */
+
+/* Neutral/D_Grey */
+color: #4D4D4D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+.container5 p{
+   /* When joining the JustGo Community, your success becomes our success. In other words, our Customer Success team will be on hand from day one to ensure we understand your requirements, share your goals and work with you for a smooth adoption of our software. */
+
+width: 601px;
+height: 80px;
+
+/* Body/Regular/Body 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+
+/* or 143% */
+
+/* Neutral/Grey */
+color: #717171;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+ 
+}
+
+
+.container5 .lmb5{
+   /* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 32px;
+margin: 10% 0;
+gap: 10px;
+
+width: 151px;
+height: 52px;
+
+/* Brand/Primary */
+background: #4CAF4F;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+text-decoration: none;
+color: #fff;
+font-weight: 500;
+
+}
+
+
+.customer-section .container6{
+    padding: 0px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    gap: 50px;
+    margin: 0 auto;
+
+}
+.container6 {
+//* Unlock */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1440px;
+height: 433px;
+#overflow-x: scroll;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+.container6 img,{
+        /* Frame 35 */
+
+    margin: 0 auto;
+  
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.container6 .meet{
+    /* Frame 35 */
+
+#margin: 0 auto;
+
+
+
+/* Inside auto layout */
+#flex: none;
+#order: 0;
+#flex-grow: 0;
+
+}
+
+.container6 h2{
+    /* The unseen of spending three years at Pixelgrade */
+
+width: 601px;
+height: 88px;
+#margin: 5% 0;
+/* Heading/Headline 2 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+/* or 122% */
+
+/* Neutral/D_Grey */
+color: #4D4D4D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+.container5 p{
+   /* When joining the JustGo Community, your success becomes our success. In other words, our Customer Success team will be on hand from day one to ensure we understand your requirements, share your goals and work with you for a smooth adoption of our software. */
+
+width: 601px;
+height: 80px;
+
+/* Body/Regular/Body 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+
+/* or 143% */
+
+/* Neutral/Grey */
+color: #717171;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+ 
+}
+
+
+.container6 .lmb5{
+   /* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 32px;
+#margin: 10% 0;
+gap: 10px;
+
+width: 151px;
+height: 52px;
+
+/* Brand/Primary */
+background: #4CAF4F;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+text-decoration: none;
+color: #fff;
+font-weight: 500;
+
+}
+
+
